@@ -42,11 +42,14 @@ Sales Performance Dashboard on Tableau Public
 
 
 **View Live Dashboard:**
-Global Sports Salary Analysis Dashboard on Tableau Public
+[Global Sports Salary Analysis Dashboard on Tableau Public](https://public.tableau.com/views/TopTeamsPayrollAnalysis/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Contact**
+
 **LinkedIn:** www.linkedin.com/in/tfonigbanjo
+
 **GitHub:** https://github.com/Asthy247
+
 **Tableau Public**: https://public.tableau.com/app/profile/ashley.james8525/vizzes
 
 
