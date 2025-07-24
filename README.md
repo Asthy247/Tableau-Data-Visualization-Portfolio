@@ -15,15 +15,14 @@ Description: Interactive dashboard analyzing Superstore sales and profit perform
 **Key Insights:** Revealed sales seasonality; West region leads sales; "Canon ImageCLASS 2200" is the top-selling product.
 
 <img width="984" height="690" alt="image" src="https://github.com/user-attachments/assets/8a22afd9-816c-4899-b078-2b66c182e5ae" />
-Repository Link:
-GitHub Repository
-**View the Live Interactive Dashboard:**
-Sales Performance Dashboard on Tableau Public
 
+
+**View the Live Interactive Dashboard:**
 [Sales Performance Dashboard on Tableau Public](https://public.tableau.com/app/profile/ashley.james8525/viz/SuperstoreSalesPerformanceDashboard_17533439049740/SalesPerformanceDashboard)
 
-Repository Link:
-GitHub Repository
+
+**Repository Link**: https://github.com/Asthy247/Sales-Performance-Dashboard
+
 
 # 2. Digital Marketing Campaign: Customer Demographics Dashboard
 **Description:** Interactive dashboard analyzing digital marketing campaign demographics (age, gender, income) from a Kaggle dataset.
@@ -35,6 +34,8 @@ GitHub Repository
 **View the Live Interactive Dashboard:**
 [Customer Demographics Dashboard on Tableau Public](https://public.tableau.com/views/MarketingDashboardDemographicsConversions/CustomerDemographicsDashboard)
 
+**Repository Link**:https://github.com/Asthy247/Customer-Demographics-Dashboard-Marketing-Campaign-Analysis
+  
 # 3. Global Sports Salary Analysis Dashboard
 **Description:** Tableau dashboard visualizing total payroll for teams across various sports leagues, ranked by previous year's performance.
 
@@ -45,6 +46,13 @@ GitHub Repository
 
 **View Live Dashboard:**
 [Global Sports Salary Analysis Dashboard on Tableau Public](https://public.tableau.com/views/TopTeamsPayrollAnalysis/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**Repository Link**: https://github.com/Asthy247/Global-Sports-Salary-Analysis
+
+
+
+
+
 
 **Contact**
 
