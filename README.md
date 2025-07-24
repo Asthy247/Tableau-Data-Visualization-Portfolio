@@ -22,6 +22,8 @@ Sales Performance Dashboard on Tableau Public
 
 [Sales Performance Dashboard on Tableau Public](https://public.tableau.com/app/profile/ashley.james8525/viz/SuperstoreSalesPerformanceDashboard_17533439049740/SalesPerformanceDashboard)
 
+**Repository Link:**
+GitHub Repository
 
 # 2. Digital Marketing Campaign: Customer Demographics Dashboard
 **Description:** Interactive dashboard analyzing digital marketing campaign demographics (age, gender, income) from a Kaggle dataset.
