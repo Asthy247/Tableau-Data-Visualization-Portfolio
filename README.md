@@ -15,14 +15,14 @@ Description: Interactive dashboard analyzing Superstore sales and profit perform
 **Key Insights:** Revealed sales seasonality; West region leads sales; "Canon ImageCLASS 2200" is the top-selling product.
 
 <img width="984" height="690" alt="image" src="https://github.com/user-attachments/assets/8a22afd9-816c-4899-b078-2b66c182e5ae" />
-
-
+Repository Link:
+GitHub Repository
 **View the Live Interactive Dashboard:**
 Sales Performance Dashboard on Tableau Public
 
 [Sales Performance Dashboard on Tableau Public](https://public.tableau.com/app/profile/ashley.james8525/viz/SuperstoreSalesPerformanceDashboard_17533439049740/SalesPerformanceDashboard)
 
-**Repository Link:**
+Repository Link:
 GitHub Repository
 
 # 2. Digital Marketing Campaign: Customer Demographics Dashboard
